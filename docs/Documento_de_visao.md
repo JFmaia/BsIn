@@ -19,7 +19,7 @@
 | --------- |:---------:    |
 | Flavio Roberto |  |
 | Gabriel Gonçalo |  |
-| José Flávio | Gestão, Desenvolvedor Dart, Flutter, VScode, Python, Django, Markdown |
+| José Flávio | Gestão, Desenvolvedor Dart, Flutter, VScode, Python, Django, Markdown, C |
 | Pedro Henrique |  |
 
 ## Perfis dos Usuários

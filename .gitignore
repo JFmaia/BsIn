@@ -21,6 +21,8 @@ sdist/
 var/
 wheels/
 pip-wheel-metadata/
+bsin/db.sqlite3
+bsin/mayuri
 share/python-wheels/
 *.egg-info/
 .installed.cfg

@@ -1,7 +1,11 @@
+from django.contrib import messages
 from django.shortcuts import redirect, render
 from django.views.decorators.csrf import csrf_protect
-from django.contrib.auth import authenticate, login
-from django.contrib.messages import get_messages
+from django.contrib.auth import authenticate, login, logout
+from django.contrib import messages
+from django.contrib.auth.models import User
+from django.core.exceptions import ValidationError
+
 # Create your views here.
 
 def login_user(request):
@@ -17,6 +21,11 @@ def submit_login(request):
             login(request, user)
             return redirect('/login/#')
         else:
-            get_messages("Usuário ou senha inválido! Tente novamente.")
+            messages.success(request,"Usuário ou senha inválido! Tente novamente.")
     return redirect('/login/')
+
+
+
+
+   
 

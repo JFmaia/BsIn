@@ -9,7 +9,7 @@
 | Membro    | Papel     | Email     |
 | --------- |:---------:|:---------:|
 | Flavio Roberto | Analista, Desenvolvedor | flaviovorthrox@yahoo.com.br|
-| Gabriel Gonçalo | Analista, Desenvolvedor |  |
+| Gabriel Gonçalo | Analista, Desenvolvedor | gabriel.tchutcha@hotmail.com.br |
 | José Flávio | Gerente, Desenvolvedor | jfmaia741@gmail.com |
 | Pedro Henrique | Analista, Desenvolvedor | p.h.t.s30@gmail.com |
 

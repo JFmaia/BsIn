@@ -9,7 +9,7 @@
 | It1 | 18/06/2021 | 30/06/2021 | 29/06/2021 | Gerente 1 (José Flávio) | Criar Documento de Visão, Modelos e Plano de Interação e Release. |
 | It2 | 31/06/2021 | 12/07/2021 | 11/07/2021 | Gerente 2 (Flávio Roberto) | Detalhar US00, Implementar US00, Detalhar US01 e US02. |
 | It3 | 13/07/2021 | 28/07/2021 | 27/07/2021 | Gerente 3 ("Pedro Henrique") | Implementar US01 e US02, Detalhar US03 e US04, Testar US00. |
-| It4 | 29/07/2021 | 12/08/2021 | 11/08/2021 | Gerente 4 ("Gabriel Gonçalo") | Implementar US01 e us02 |
+| It4 | 29/07/2021 | 12/08/2021 | 11/08/2021 | Gerente 4 ("Gabriel Gonçalo") | Implementar US03 e US04 |
 | It5 | 13/07/2021 | 24/08/2021 | 23/08/2021 | Gerente 5 ("") |  |
 | It6 | 25/08/2021 | 08/09/2021 | 07/09/2021 | Gerente 6 ("") |  |
 

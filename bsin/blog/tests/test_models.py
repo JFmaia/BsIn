@@ -34,5 +34,5 @@ class PostModelTest(TestCase):
 
     def test_object_title(self):
         post = Post.objects.get(id=1)
-        expected_object_name = f'{post.title}'
+        expected_object_name = '{post.title}'
         self.assertEquals(expected_object_name, str(post))
